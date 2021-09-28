@@ -1,8 +1,2 @@
-# dit is een test met markdown
-
-## superinteressant onderdeeltje
-
-
-### dit is er later bijgekomen
-
-dit is __leuk__ zeg
+# Pannenkoeken recept
+<img> https://www.google.com/search?q=pannenkoeken&rlz=1C1UEAD_nlNL970NL970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivwairt6HzAhXG4KQKHTN_Ds4Q_AUoAnoECAIQBA&biw=1536&bih=754&dpr=1.25#imgrc=Hg2JAVdyGd_YoM
