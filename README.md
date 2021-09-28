@@ -1,2 +1,2 @@
 # Pannenkoeken recept
-![wow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpannenkoekenbeslag.nl%2F&psig=AOvVaw0NQvv-rdf-7bcDP670g62x&ust=1632911497747000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCFrsK7ofMCFQAAAAAdAAAAABAD)
+![wow](https://pannenkoekenbeslag.nl/images/pannenkoeken_normaal-nobg.png)
