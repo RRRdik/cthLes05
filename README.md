@@ -1,2 +1,2 @@
 # Pannenkoeken recept
-<img> https://www.google.com/search?q=pannenkoeken&rlz=1C1UEAD_nlNL970NL970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivwairt6HzAhXG4KQKHTN_Ds4Q_AUoAnoECAIQBA&biw=1536&bih=754&dpr=1.25#imgrc=Hg2JAVdyGd_YoM
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpannenkoekenbeslag.nl%2F&psig=AOvVaw0NQvv-rdf-7bcDP670g62x&ust=1632911497747000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCFrsK7ofMCFQAAAAAdAAAAABAD)
